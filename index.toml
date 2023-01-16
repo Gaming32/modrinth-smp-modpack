@@ -69,6 +69,10 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
+file = "config/yosbr/config/vcinteraction/vcinteraction.properties"
+hash = "87220b6950a213717be88b33b1671247d18be9408d5736fac2de9ae9fb10d3f7"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "bb1064d7059d74f36f6b67f71457b1633d1fe1cfa7d69f1b15bc9770abb30e06"
 
@@ -244,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
+hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
 metafile = true
 
 [[files]]
@@ -314,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "977ca09ec10461c0ca552cfbbe95a5e6e6c39554cb42cdbea4c2f110b41d04a5"
+hash = "a0c902f15b71c47391d865e7c907099ea5f9d3bd2d8063b3da847b9eb5c64467"
 metafile = true
 
 [[files]]
@@ -457,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+hash = "468b05852886a24f7eb247c006df1cea669cb33b99099109eec8b9b93641be1a"
 metafile = true
 
 [[files]]
@@ -557,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3d0f720430c5925f34d52ee314d6e273a10e1c65205b7c10c1118ff7db2964f4"
+hash = "7c30143e5e8e1cff1fe54a672170a8d73df34651db9ee27f27e55db43a1685bd"
 metafile = true
 
 [[files]]
@@ -636,6 +640,11 @@ hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
 metafile = true
 
 [[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
 metafile = true
@@ -662,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+hash = "d169757ed261a9c56058036f6765e0253d3a21270fdcd9ef55e3aa5d47562a36"
 metafile = true
 
 [[files]]
