@@ -3,7 +3,7 @@
   "disableAttributesGui": false,
   "showLevelNameplates": true,
   "skillPointsPerLevelUp": 1,
-  "levelFormula": "x+1",
+  "levelFormula": "x+x^(0.0001x^2)",
   "levelUpVolume": 100,
   "skillUpVolume": 100,
   "textScaleX": 50,
