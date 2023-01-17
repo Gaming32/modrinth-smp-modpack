@@ -7,7 +7,7 @@
   "dropsOnlyFromPlayerKills": true,
   "dragonDropsStone": false,
   "mobsDropLootChance": 4,
-  "mobDropIsRelicChance": 50,
+  "mobDropIsRelicChance": 28,
   "mobDropIsPotionChance": 0,
   "mobDropIsLesserOrbChance": 35,
   "mobDropIsGreaterOrbChance": 1,
