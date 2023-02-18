@@ -1,13 +1,13 @@
-name = "Rat's Mischief 🐀"
-filename = "ratsmischief-1.3.7.jar"
+name = "Rat's Mischief"
+filename = "ratsmischief-1.4.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Jjc1149h/versions/TO8D9XBT/ratsmischief-1.4.0.jar"
 hash-format = "sha1"
-hash = "0395feeb1dec01d46dde9b91f4953b1ead809aad"
-mode = "metadata:curseforge"
+hash = "d4b4b2cffbef3a777ddecd45f4390077f45098f9"
 
 [update]
-[update.curseforge]
-file-id = 3778759
-project-id = 431787
+[update.modrinth]
+mod-id = "Jjc1149h"
+version = "TO8D9XBT"

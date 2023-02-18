@@ -1,8 +1,0 @@
-name = "gate-of-babylon"
-filename = "gate-of-babylon-1.7.0-1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Draylar/gate-of-babylon/releases/download/1.7.0-1.18.2/gate-of-babylon-1.7.0-1.18.2.jar"
-hash-format = "sha1"
-hash = "478925dbe73e114d4de5c834966ea01db3fc03a2"

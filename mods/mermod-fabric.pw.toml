@@ -1,13 +1,13 @@
 name = "Mermod [FABRIC]"
-filename = "mermod-fabric-2.1.jar"
+filename = "mermod-fabric-2.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7aa319b6136122db58c8c02a51f14e311ddeda66"
+hash = "48f71db8520a38335a783123dd7485e27c9f2fd2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4049237
+file-id = 4091702
 project-id = 463248

@@ -1,13 +1,13 @@
 name = "Mob Hat"
-filename = "mob-hat-1.1.0.jar"
+filename = "mob-hat-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RJKxUQSK/versions/rSS1NlBj/mob-hat-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/RJKxUQSK/versions/fidIBsZn/mob-hat-1.2.1.jar"
 hash-format = "sha1"
-hash = "f956ecdd4fcae9c9712b62cb967bb364c3eb850c"
+hash = "da799df3de8cef3c427c681ddab23c6adb4f6295"
 
 [update]
 [update.modrinth]
 mod-id = "RJKxUQSK"
-version = "rSS1NlBj"
+version = "fidIBsZn"

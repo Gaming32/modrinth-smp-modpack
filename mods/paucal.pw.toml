@@ -1,13 +1,13 @@
 name = "PAUCAL"
-filename = "paucal-fabric-1.18.2-0.4.7.jar"
+filename = "paucal-fabric-1.19.2-0.5.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TZo2wHFe/versions/zrxHAQQ7/paucal-fabric-1.19.2-0.5.0.jar"
 hash-format = "sha1"
-hash = "839e6633d18a0c419153b67b909befb51b40c8cf"
-mode = "metadata:curseforge"
+hash = "429dbbae298ebca0e7c51ca1c0bfdd07dcbf8271"
 
 [update]
-[update.curseforge]
-file-id = 3831429
-project-id = 597824
+[update.modrinth]
+mod-id = "TZo2wHFe"
+version = "zrxHAQQ7"

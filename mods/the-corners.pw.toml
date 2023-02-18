@@ -1,0 +1,13 @@
+name = "The Corners"
+filename = "the_corners-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ixqEiFdp/versions/7AOIlko1/the_corners-1.2.4.jar"
+hash-format = "sha1"
+hash = "352836e3a05a4a11493c0f9b835d21ee3f3cae6a"
+
+[update]
+[update.modrinth]
+mod-id = "ixqEiFdp"
+version = "7AOIlko1"

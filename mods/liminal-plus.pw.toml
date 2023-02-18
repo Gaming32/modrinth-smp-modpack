@@ -1,0 +1,13 @@
+name = "Liminal Plus"
+filename = "liminal-plus-1.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u4kdpU9g/versions/wAWSqJ48/liminal-plus-1.0.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "0676e8b436b88207ca10dae56d5c38e186efaac1"
+
+[update]
+[update.modrinth]
+mod-id = "u4kdpU9g"
+version = "wAWSqJ48"

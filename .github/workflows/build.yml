@@ -31,6 +31,6 @@ jobs:
           wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
           java -jar packwiz-installer-bootstrap.jar -g -s server http://localhost:8080/pack.toml
           wget https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/latest/quilt-installer-latest.jar
-          java -jar quilt-installer-latest.jar install server 1.18.2 0.18.1-beta.12 --install-dir=. --download-server
+          java -jar quilt-installer-latest.jar install server 1.19.2 0.18.1-beta.27 --install-dir=. --download-server
           echo eula=true > eula.txt
           echo stop | java -jar quilt-server-launch.jar

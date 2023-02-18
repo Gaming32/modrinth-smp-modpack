@@ -1,13 +1,13 @@
 name = "BackpackMod"
-filename = "backpackmod-1.18.2-3.2.3.jar"
+filename = "backpackmod-1.19-4.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YQenrte2/versions/1.18.2-3.2.3/backpackmod-1.18.2-3.2.3.jar"
+url = "https://cdn.modrinth.com/data/YQenrte2/versions/1.19/backpackmod-1.19-4.0.5.jar"
 hash-format = "sha1"
-hash = "2150d23575706ccb419007ac91cd844301a24350"
+hash = "38f58033025e9e0303eb8a2a5aa067ec76acccad"
 
 [update]
 [update.modrinth]
 mod-id = "YQenrte2"
-version = "utuWI8LK"
+version = "wZPzgbFZ"

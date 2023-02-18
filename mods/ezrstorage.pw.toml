@@ -1,13 +1,13 @@
 name = "EZR Storage"
-filename = "ezrstorage-1.0.2.jar"
+filename = "ezrstorage-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5Mqu9qpV/versions/retZlwzk/ezrstorage-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/5Mqu9qpV/versions/cdaToKgi/ezrstorage-1.1.0.jar"
 hash-format = "sha1"
-hash = "a046e08d59249b3291eb343219cffb1a1c8194f9"
+hash = "b0bb828c5468471d3b1cfbb8ba8ccdee924eafcc"
 
 [update]
 [update.modrinth]
 mod-id = "5Mqu9qpV"
-version = "retZlwzk"
+version = "cdaToKgi"
