@@ -1,13 +1,13 @@
 name = "LuckPerms"
-filename = "LuckPerms-Fabric-5.3.86.jar"
+filename = "LuckPerms-Fabric-5.4.57.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vebnzrzj/versions/5.3.86/LuckPerms-Fabric-5.3.86.jar"
+url = "https://cdn.modrinth.com/data/Vebnzrzj/versions/NopnADlz/LuckPerms-Fabric-5.4.57.jar"
 hash-format = "sha1"
-hash = "085982408ff31880d96e34793031b761ce0b902e"
+hash = "25302304b2c5066e8671e2fae8e83c8e57962713"
 
 [update]
 [update.modrinth]
 mod-id = "Vebnzrzj"
-version = "NbRSaDd7"
+version = "NopnADlz"

@@ -1,7 +1,3 @@
-[gate-of-babylon]
+["gate-of-babylon-1.7.0-1.19.2"]
 name = "Gate of Babylon"
-url = "https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon"
-
-["spellbound-1.9.1"]
-name = "Spellbound"
-url = "https://github.com/Tigereye504/spellbound"
+url = "https://github.com/Draylar/gate-of-babylon/pull/92"

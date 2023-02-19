@@ -14,7 +14,6 @@ emi
 exordium
 fastload
 ferrite-core
-hold-that-chunk
 indium
 inspecio
 iris
@@ -36,3 +35,4 @@ sound-physics-remastered
 starlight
 tooltipfix
 wthit
+fabricskyboxes

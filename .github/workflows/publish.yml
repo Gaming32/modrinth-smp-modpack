@@ -18,14 +18,14 @@ jobs:
       - name: Build mrpack
         run: ./packwiz modrinth export
       - name: Rename file
-        run: mv *.mrpack 'Modrinth SMP-1.0.${{ github.run_number }}.mrpack'
+        run: mv *.mrpack 'Modrinth SMP-2.0.${{ github.run_number }}.mrpack'
       - name: Publish mrpack
         uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: PEMTFQFO
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files-primary: '*.mrpack'
-          version: 1.0.${{ github.run_number }}
+          version: 2.0.${{ github.run_number }}
           changelog: ${{ github.event.head_commit.message }}
           loaders: quilt
-          game-versions: '1.18.2'
+          game-versions: '1.19.2'

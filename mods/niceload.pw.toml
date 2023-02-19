@@ -1,16 +1,16 @@
 name = "NiceLoad"
-filename = "niceload-0.1.3+1.18.2.jar"
+filename = "niceload-0.1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rhFZnqEG/versions/hPR8Mdcr/niceload-0.1.3%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/rhFZnqEG/versions/b9x51wft/niceload-0.1.3.jar"
 hash-format = "sha1"
-hash = "121d7a185453e6cd104d85f9b1fb1fff9ee4bb81"
+hash = "b097ca2007c050ec578d79d233e53082c3379133"
 
 [update]
 [update.modrinth]
 mod-id = "rhFZnqEG"
-version = "hPR8Mdcr"
+version = "b9x51wft"
 
 [option]
 optional = true

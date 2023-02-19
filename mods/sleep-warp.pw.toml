@@ -1,13 +1,13 @@
 name = "SleepWarp"
-filename = "sleepwarp-1.1.1+1.18.2.jar"
+filename = "sleepwarp-1.2.0+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OPvzuqtZ/versions/1.1.1/sleepwarp-1.1.1%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/OPvzuqtZ/versions/1.2.0/sleepwarp-1.2.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "5a46f66ec649169f370eb6ec0ad280c319a4c960"
+hash = "6895532b526baecc988b5c80a3ffd687d157398b"
 
 [update]
 [update.modrinth]
 mod-id = "OPvzuqtZ"
-version = "2yO8inuL"
+version = "RFPkbUfX"

@@ -1,13 +1,13 @@
 name = "RelicEx"
-filename = "relicex-3.1.4.jar"
+filename = "relicex-3.2.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LwwtuiRk/versions/WlN8knqr/relicex-3.1.4.jar"
+url = "https://cdn.modrinth.com/data/LwwtuiRk/versions/mV856DWl/relicex-3.2.7.jar"
 hash-format = "sha1"
-hash = "08b95b21eb3c31536bc4180cad65318cb6692140"
+hash = "baccec1bbca2820331c7def6cb0a4f43bacbe1ba"
 
 [update]
 [update.modrinth]
 mod-id = "LwwtuiRk"
-version = "WlN8knqr"
+version = "mV856DWl"

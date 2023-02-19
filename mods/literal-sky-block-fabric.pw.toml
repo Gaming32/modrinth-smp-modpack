@@ -1,13 +1,13 @@
 name = "Literal Sky Block Fabric"
-filename = "literal-sky-block-1.0.0.jar"
+filename = "literal-sky-block-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MYeliX3Q/versions/7zLKbRj3/literal-sky-block-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/MYeliX3Q/versions/Z1ebOzYc/literal-sky-block-1.1.0.jar"
 hash-format = "sha1"
-hash = "d7a46a5d591e120818a79f3d1cab872d5c9276da"
+hash = "0a374e5587fa5c2976a8daca2b745b66c68aa2e0"
 
 [update]
 [update.modrinth]
 mod-id = "MYeliX3Q"
-version = "7zLKbRj3"
+version = "Z1ebOzYc"

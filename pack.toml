@@ -1,16 +1,16 @@
 name = "Modrinth SMP"
 author = "Modrinth SMP"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "191b1b6fd03c987b81e6b515a950263e0b90ac53485f210a09c7434f13d7047b"
+hash = "a49cac585b3a3ac2e4456d1ee996e9324fe3fabaf7d54a42c4ea3b892ca167cc"
 
 [versions]
-minecraft = "1.18.2"
-quilt = "0.18.1-beta.12"
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.78"
 
 [options]
-acceptable-game-versions = ["1.18.2"]
+acceptable-game-versions = ["1.19.2"]

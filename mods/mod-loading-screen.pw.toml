@@ -1,0 +1,18 @@
+name = "Mod Loading Screen"
+filename = "mod-loading-screen-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xAGJ6rQS/versions/hPWDKr8S/mod-loading-screen-1.0.1.jar"
+hash-format = "sha1"
+hash = "da30a270e5bdcc825170cba1d141becc927ce794"
+
+[update]
+[update.modrinth]
+mod-id = "xAGJ6rQS"
+version = "hPWDKr8S"
+
+[option]
+optional = true
+description = "A loading screen that displays the loading progress of mods"
+default = true

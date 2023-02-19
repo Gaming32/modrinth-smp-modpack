@@ -1,0 +1,13 @@
+name = "Fabric Reputation System"
+filename = "fabric-rep-system-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O0B7MCiC/versions/wavEuKRg/fabric-rep-system-1.1.1.jar"
+hash-format = "sha1"
+hash = "420bbc6787414a52554edc041f3fc8adbccbe98a"
+
+[update]
+[update.modrinth]
+mod-id = "O0B7MCiC"
+version = "wavEuKRg"
