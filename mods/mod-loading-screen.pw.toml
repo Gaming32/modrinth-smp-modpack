@@ -11,3 +11,8 @@ hash = "da30a270e5bdcc825170cba1d141becc927ce794"
 [update.modrinth]
 mod-id = "xAGJ6rQS"
 version = "hPWDKr8S"
+
+[option]
+optional = true
+description = "A loading screen that displays the loading progress of mods"
+default = true
