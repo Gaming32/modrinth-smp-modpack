@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-loading-screen.pw.toml"
-hash = "c32ceb738c0f21b544253c79522f58b6c6ffdb548f2bd64712aa7f9c5c410d27"
+hash = "8be3a59ccbc5887a7c30a7772409e224716afe67d060ae0c3f0293728f67845d"
 metafile = true
 
 [[files]]
