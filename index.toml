@@ -436,11 +436,6 @@ hash = "a20b14129f4a0ea0a2be6b378e6bdb003dd55556c516f78d0dd24bb2d9edc89d"
 metafile = true
 
 [[files]]
-file = "mods/mod-loading-screen.pw.toml"
-hash = "8be3a59ccbc5887a7c30a7772409e224716afe67d060ae0c3f0293728f67845d"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
