@@ -1,13 +1,13 @@
 name = "PlayerEx"
-filename = "playerex-3.5.0.jar"
+filename = "playerex-3.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/o5GUN4b1/versions/h5tJ7cyw/playerex-3.5.0.jar"
+url = "https://cdn.modrinth.com/data/o5GUN4b1/versions/3aJLgtoZ/playerex-3.5.2.jar"
 hash-format = "sha1"
-hash = "c9ab8d67f9777ee0a8d9d9acd5e0324f74d0a527"
+hash = "bc954f5eb51e71710b79218a99add9196743ab2c"
 
 [update]
 [update.modrinth]
 mod-id = "o5GUN4b1"
-version = "h5tJ7cyw"
+version = "3aJLgtoZ"
