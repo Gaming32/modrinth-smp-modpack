@@ -50,7 +50,7 @@ hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
 
 [[files]]
 file = "config/yosbr/config/quickconnectbutton.json5"
-hash = "5cf674740d167ad1af57049b3b6cacfe085a8e700a44d13ee997771aa2996453"
+hash = "9d0ee4b1cf6eadd6a132f8e82280088044d59cbb98fb268151336ed82787cbb2"
 
 [[files]]
 file = "config/yosbr/config/relicex.json"
