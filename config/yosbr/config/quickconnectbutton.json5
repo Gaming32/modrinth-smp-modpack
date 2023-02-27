@@ -1,6 +1,6 @@
 {
 	// The address to connect to when the button is pressed.
-	"address": "104.129.46.132:25597",
+	"address": "mc.jemnetworks.com",
 	// The name of the button.
 	"connectButton": "Connect",
 	// The side to align the button to. ('LEFT'/'RIGHT')
@@ -11,5 +11,5 @@
 		"width": 50
 	},
 	// Determines what to do if the server has a resource pack. ('ALLOW'/'DENY'/'PROMPT').
-	"resourcePackPolicy": "PROMPT"
+	"resourcePackPolicy": "ALLOW"
 }
