@@ -167,6 +167,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "4b9046c17c02c1a35f6fe2747bdb74d219f3b9b02a2e8fdc9c1dfc5008f7c422"
 metafile = true
