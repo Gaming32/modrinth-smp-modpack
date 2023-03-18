@@ -227,11 +227,6 @@ hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "4cb6f75534df8ecf59b39ac386310af11cf1842add689b64938e30bbe9688d92"
-metafile = true
-
-[[files]]
 file = "mods/disableinsecurechattoast.pw.toml"
 hash = "8b2e15f512c397937d43d6df8d027ce681bf664a1f850ec20dde0d7f2d555bcd"
 metafile = true
