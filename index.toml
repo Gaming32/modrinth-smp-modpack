@@ -9,6 +9,10 @@ file = "config/enchancement.json"
 hash = "cf7f857b1fd0174e616502b447d07dce9a08a0a9194e6de6f565061c7da8356a"
 
 [[files]]
+file = "config/quickconnectbutton.json5"
+hash = "9d0ee4b1cf6eadd6a132f8e82280088044d59cbb98fb268151336ed82787cbb2"
+
+[[files]]
 file = "config/spellbound.json"
 hash = "32603c40aa93652ee7725724f8fd06d06393608b0c3e2de9912224ad03bcea15"
 
@@ -47,10 +51,6 @@ hash = "a05cf4237bca33782aa99e7ee7d777498433a9a8b3b0eddc235ce5d19fd9ded1"
 [[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
-
-[[files]]
-file = "config/yosbr/config/quickconnectbutton.json5"
-hash = "5cf674740d167ad1af57049b3b6cacfe085a8e700a44d13ee997771aa2996453"
 
 [[files]]
 file = "config/yosbr/config/relicex.json"
@@ -167,6 +167,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "4b9046c17c02c1a35f6fe2747bdb74d219f3b9b02a2e8fdc9c1dfc5008f7c422"
 metafile = true
@@ -222,11 +227,6 @@ hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "4cb6f75534df8ecf59b39ac386310af11cf1842add689b64938e30bbe9688d92"
-metafile = true
-
-[[files]]
 file = "mods/disableinsecurechattoast.pw.toml"
 hash = "8b2e15f512c397937d43d6df8d027ce681bf664a1f850ec20dde0d7f2d555bcd"
 metafile = true
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "eb302e6737d7ffc38ef178fa28d9a7fcebe8f61730c80c4ce73459944844fe44"
+hash = "a2becd97f1aeb612a79c25f426bc678791356f99f86618caf3f618e156b41b0d"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-origins.pw.toml"
-hash = "186987bc3f451d929e42bab5dc391ca07a6badd7ade2c3ac7c4b6a291d6f44b5"
+hash = "2d529ef5a4753d8c71c845bc8b5570c5a9a63b3d2449643c4590fd57ac23ed16"
 metafile = true
 
 [[files]]
@@ -467,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "ab151f9897d6aab2ddf6c911a3421bda025a5d824a6ccc7dcc9908011e4e2617"
 metafile = true
 
 [[files]]
