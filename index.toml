@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "b4537307f5199ed64e8af3ba0f4f8ce8dfc4ce0da66fc1bf5e39943de922f581"
+hash = "ca54889562bc646cf696d94861ef83b295498465cfd9f0022bff3ef3de509662"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "0f9e287c84c2463ecb376d58c8bf30cbfbfa04ec44aef2f61e36e42fe529be30"
+hash = "f2b64534ac741a2a5f4ea7aa59585e1a5e60160e65cddac301d3cf46eb335150"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/woof.pw.toml"
-hash = "24a28aa7465decd80a4a5065a2375a4b5ef7c7c619f0b7af3c8045ad86dfe3e8"
+hash = "bd911594a5835278b11c0a0c68cb2145b153ec9a726982a0d10407f75431bad4"
 metafile = true
 
 [[files]]
