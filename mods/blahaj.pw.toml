@@ -1,13 +1,13 @@
 name = "Blåhaj"
-filename = "blahaj-quilt-1.19-0.2.0.jar"
+filename = "blahaj-quilt-1.19-0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Yl6uPZkr/versions/10WMG0sW/blahaj-quilt-1.19-0.2.0.jar"
+url = "https://cdn.modrinth.com/data/Yl6uPZkr/versions/BGOUdNTW/blahaj-quilt-1.19-0.2.1.jar"
 hash-format = "sha1"
-hash = "f4134fce903fbd219d523b72b9626c418a240f1c"
+hash = "fc0017adc4f2a803c0d7da93a1692f8637f81331"
 
 [update]
 [update.modrinth]
 mod-id = "Yl6uPZkr"
-version = "10WMG0sW"
+version = "BGOUdNTW"
