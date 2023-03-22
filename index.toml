@@ -341,6 +341,11 @@ hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "87066ad1a766c9f105f5d1c1b8f4d28f81a68f3103f51db9d867170229215ac9"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "221d93c3cd71b9b0f00c718f211309508621ad8a0c4b0204e0cb31a1bcd7b84a"
 metafile = true
