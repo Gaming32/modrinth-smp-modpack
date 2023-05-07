@@ -570,6 +570,11 @@ hash = "4ad1f4d5630879670b010035610eb35e8fb3eec45b1d908f6a68b4a91ecbe843"
 metafile = true
 
 [[files]]
+file = "mods/shiv.pw.toml"
+hash = "49baa0cf53ef5c7ebc86c16923c4151a13d1ba7bc0fe165a7c0086451ba3b05c"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c4d6bc882370694abe64f28d8b8295e80d08425363fd479a40ba61cdb2701a58"
 metafile = true
