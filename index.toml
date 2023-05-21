@@ -97,11 +97,6 @@ hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
 metafile = true
 
 [[files]]
-file = "mods/armored-elytra.pw.toml"
-hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
-metafile = true
-
-[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
 metafile = true
